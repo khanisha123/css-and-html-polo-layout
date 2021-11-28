@@ -1,0 +1,671 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-top: 10px;
+    margin-right: 7%;
+}
+header .info{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 6%;
+    padding-top: 20px;
+    font-size: 14px;
+    color: white;
+}
+
+header .socialMedia .socialMediaStyle{
+
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;    
+}
+header .socialMedia{
+    margin-right: 7%;
+    
+    
+}
+
+.socialMedia .socialMediaStyle .liSocialMedia{
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+header .info .phoneEmail span{
+    font-size: 18px;
+    margin-left: 30px;
+    
+    
+}
+header .vl{
+    border-top: 1px solid gray;
+    margin-top: 14px;
+    width: 2020px;
+    
+}
+header nav .logo-text{
+
+    margin-left: 7%; 
+    
+    color: white;    
+    
+}
+header nav .logo-text h1{
+    color: white;
+    font-size: 70px;
+}
+header nav .logo-text a{
+    text-decoration: none;
+}
+
+header nav .navlink .ulNav .listNav a{
+ 
+    text-decoration: none;
+    
+}
+header nav .navlink .ulNav .listNav{
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+header nav .navlink .ulNav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 22%;
+}
+
+.logoAndNavLinkServicies{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+header nav .service{
+ list-style-type: none; 
+ display: flex;
+ justify-content: space-between; 
+ margin-right: 7%; 
+}
+
+header nav .service .serviceLi{
+
+ margin-right: 10px;
+
+}
+.backgroudImage{
+    background-image: url(../image/350978.jpg);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size: cover;
+    
+}
+header .fontanswomeicon{
+    color: white;
+}
+header nav .navlink .ulNav .listNav a{
+
+    color: white;
+}
+main section .borderBorderCheckForm .bordercheckForm{
+
+    height: 500px;
+    width: 600px; 
+    background:rgba(0, 0, 0, 0.4);
+    
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm{
+    font-size: 28px;
+    color: white;
+    
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm .checkInCheckOut{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 25%; 
+    padding-top: 10%;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm .childrenAdults{
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 26%; 
+    padding-top: 20px;
+
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm .roomclass{
+
+    margin-left: 5%;
+    padding-top: 20px;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .checkcheckout{
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm .adultschildiren{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 22%;
+    padding-top: 20px;
+}
+main section  .borderBorderCheckForm .bordercheckForm .checkForm .selectRoomType #roomtype{
+    margin-top: 20px;
+    margin-left:5%;
+    margin-right: 5%;
+}
+#buttonforcheck {
+    
+    background-color: royalblue;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 312px;
+}
+
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .checkcheckout #check{
+    font-size: 25px;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .checkcheckout #checkout{
+    font-size: 25px;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .adultschildiren #adults{
+    font-size: 33px;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .adultschildiren #childiren{
+    font-size: 33px;
+}
+main section .borderBorderCheckForm .bordercheckForm .checkForm  .selectRoomType #roomtype{
+    font-size: 35px;
+    width: 90%;
+}
+
+main section .borderBorderCheckForm{
+    display: inline-block;
+    border: 10px solid rgba(108, 122, 137, 0.5);
+    
+}
+main section .mainTitleCheckForm{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;   
+}
+main section .mainTitleCheckForm .maintitle .starHotel{
+ 
+    color: white;
+    font-size: 70px;
+    margin-left: 7%;
+
+}
+
+main section .mainTitleCheckForm .maintitle .wonderful{
+    color:white;
+    font-size: 135px;
+    margin-left: 7%;
+}
+main section .mainTitleCheckForm .maintitle .feelings{
+    color:white;
+    font-size: 135px;
+    margin-left: 7%;
+    
+}
+
+.hotelSideTitle h1{
+    font-size: 70px;
+    width: 1000px;
+    margin-top: 100px;
+}
+.HotelSideTitleAbout{
+
+    color: #777;
+    margin-top: 50px;
+    font-size: 34px;
+
+}
+
+.horizontal{
+border-top: 1px solid #ccc;
+overflow: hidden;
+text-align: center;
+line-height: 1.2em;
+margin-left: 7%;
+margin-right: 7%;
+margin-top: 50px;
+margin-bottom: 10px;
+}
+
+.restaurant h4{
+     color: #1f1f1f;
+     font-size: 1.35714286em ; 
+     line-height: 1.68421053em;
+ }
+.schhol1Tyral{
+
+    font-size: 23px;
+    color: #777;
+}
+.RevolvingCocktailBar h4{
+    color: #1f1f1f;
+    font-size: 1.35714286em ; 
+    line-height: 1.68421053em;
+}
+.FreeAirportPickUpService h4{
+    color: #1f1f1f;
+     font-size: 1.35714286em ; 
+     line-height: 1.68421053em;
+}
+.Rating55 h4{
+
+    color: #1f1f1f;
+     font-size: 1.35714286em ; 
+     line-height: 1.68421053em;
+}
+.hotelPolo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 80px;
+}
+.HotelRooms h2{
+
+    font-size: 100px;
+    margin-top: 220px;
+}
+.HotelRooms p{
+    color: #777;
+    font-size: 30px;
+    margin-top: 54px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.HotelRooms  .roompage1 img{
+    height: 300px;
+    width: 350px;
+    
+    border-radius: 10px;
+}
+.HotelRooms  .roompage2 img{
+    height: 300px;
+    width: 350px;
+    
+    border-radius: 10px;
+}
+.HotelRooms  .roompage3 img{
+    height: 300px;
+    width: 350px;
+    
+    border-radius: 10px;
+}
+.HotelRooms  .roompage4 img{
+    height: 300px;
+    width: 350px;
+    
+    border-radius: 10px;
+}
+.image{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 110px;
+    margin-right: 7%;
+    margin-top: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.HotelRooms .textunderimage .textunderimage1{
+
+    color: #777;
+    font-size: 25px;
+    margin-left: 2px;
+    padding-bottom: 20px;
+}
+
+.boderTextunderimage1{
+    border: solid 1px #777;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+}
+.borderTextunderimage2{
+    border: solid 1px #777;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+}
+.borderTextunderimage3{
+    border: solid 1px #777;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+}
+.borderTextunderimage4{
+    border: solid 1px #777;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+}
+
+.HotelRooms .textunderimage .textunderimage2{
+
+    color: #777;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.HotelRooms .textunderimage .textunderimage3{
+
+    color: #777;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.HotelRooms .textunderimage .textunderimage4{
+
+    color: #777;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.HotelRooms .textunderimage{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 20px;
+}
+.HotelRooms .day89{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 20px;
+}
+.HotelRooms .day89 .h41{
+    font-size: 30px;
+    color: black;
+    margin-left: -60px;
+}
+.HotelRooms .day89 .h42{
+    font-size: 30px;
+    color: black;
+    
+}
+.HotelRooms .day89 .h43{
+    font-size: 30px;
+    color: black;
+    
+}
+.HotelRooms .day89 .h44{
+    font-size: 30px;
+    color: black;
+    
+}
+.HotelRooms .day89 h4 small{
+    font-size: 25px;
+    color: #777;
+}
+.HotelRooms .day89 .bookButton{
+
+   
+    width: 105px;
+    height: 54px;
+}
+.image1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 110px;
+    margin-right: 7%;
+    margin-top: 50px;
+
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+img:hover {opacity: 0.7;}
+
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+  }
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  .modal-content, #caption {  
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  @-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+  }
+  @keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+  }
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  .close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+@media only screen and (max-width: 700px){}
+    .modal-content {
+      width: 100%;
+    }
+
+   
+.eventimagebeetwen{
+    border-top: 1px solid #777;
+    margin-top:300px;
+    
+    
+}
+.eventsandAppointment{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+section .eventsSide h2{
+
+    color: #484848;
+    font-size: 100px;
+    margin-top: 300px;
+}
+section .eventsSide p{
+
+    color: #777;
+    font-size: 30px;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    display: inline-block;
+  }
+  
+  .tab button {
+    background-color: inherit;
+    display: flex;
+    display: inline-block;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    
+  }
+  
+
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  
+
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+.tabcontent p{
+    color: #777;
+    font-size: 20px;
+    
+}
+.eventsandAppointment{
+    display: flex;
+    justify-content: space-between;
+}
+.Appointmentinside{
+    margin-top:300px;
+}
+.Appointmentinside .Appointmentname{
+
+    color: #484848;
+    font-size: 100px;
+    
+}
+.Appointmentinside p{
+
+    color: #777;
+    font-size: 30px;
+}
+.formforAppointment{
+    font-size: 24px;
+    color: #777;
+}
+#map{
+    margin-top: 200px;
+}
+.footerside{
+    margin-right: 7%;
+    margin-left: 7%;
+    margin-top: 90px;
+    
+}
+.footerside .HTML5TEMPLATE .titleTemplate span{
+    font-size: 24px;
+    
+}
+li{
+    list-style: none;
+}
+.titleunder{
+
+    color: #777;
+    font-size: 16px;
+    
+}
+.footerside .persuceButton{
+    margin-top: 50px;
+    
+}
+a{
+    text-decoration: none;
+}
+.list ul li{
+
+    list-style: none;
+    margin-top: 10px;
+    
+    
+}
+.list ul li a{
+    color: #777;
+    margin-left: -30px;
+    margin-top: 35px;
+    
+}
+.titleLis{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerTitle{
+    display: flex;
+    justify-content: space-evenly;
+}
+.list ul li a{
+    display: flex;
+    justify-content: space-evenly;
+}
+.listunder{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.name1{
+    margin-left: -3px;
+}
+.name2{
+    margin-left: -2px;
+}
+.name3{
+    margin-right: 40px;
+}
+.name4{
+    margin-right: 15px;
+    
+}
+
+
+
+
+
+
+
+
